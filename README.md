@@ -1,2 +1,2 @@
 # Huerambe
-Cheap app making class
+App making class shtuff
